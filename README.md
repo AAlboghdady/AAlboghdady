@@ -115,5 +115,8 @@
             </a></div>
 <br />
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aalboghdady&show_icons=true&locale=en" alt="aalboghdady" /></p>
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
