@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Vehicle and](https://apps.apple.com/us/app/vehicle/id1583560863)  
   
 
-- 🔭 I’m currently working on [Aldakhell oud](https://shop.aldakheeloud.com/)  
+- 🔭 I’m currently collaborating on [Aldakhell oud](https://shop.aldakheeloud.com/)  
   
 
 - 🌱 I’m currently learning SwiftUI and TDD  
