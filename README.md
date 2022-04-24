@@ -19,7 +19,7 @@
   
 
 - 👨‍💻 All of my projects are available at [apps](https://bit.ly/3LfcfEf)
-- 
+
 
 - 📄 Know about my experiences [CV](https://bit.ly/3EJ0MdV)
 
