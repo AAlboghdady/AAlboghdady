@@ -93,6 +93,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AAlboghdady&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AAlboghdady&show_icons=true&locale=en&layout=compact" alt="AAlboghdady" /></p>
+
 <br/>  
 
   
@@ -114,8 +116,6 @@
                 />
             </a></div>
             
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafahegy&show_icons=true&locale=en&layout=compact" alt="AAlboghdady" /></p>
-
 <br />
 
 ----
